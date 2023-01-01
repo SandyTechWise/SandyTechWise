@@ -2,7 +2,6 @@ Hello, I am an experienced IT professional with over 11 years of experience in t
 
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning Node.js
-- 
 
 
 <!---
